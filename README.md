@@ -8,7 +8,7 @@
 
  Elaboración de pruebas E2E y automatización de funcionalidades principales/criticas del sitio web [Ticketazo](https://ticketazo.com.ar/), utilizando Cypress.  
  Practica realizada en equipo, dentro del programa **xAcademy QA** brindado por *Santex XAcademy* y la fundación *Technology With Purpose*  
- La plataforma está diseñada para brindar servicios de venta de entradas a eventos, se encuentra en etapa de desarrollo (pronto a salir a producción) y la misma fue desarollada por Facundo N Pasqua.
+ La plataforma está diseñada para brindar servicios de venta de entradas a eventos, se encuentra en etapa de desarrollo (pronto a salir a producción) y la misma fue desarollada por Facundo N Pasqua, uno de los mentores del curso.
 
 <!-- Herramientas -->    
 ## <img width="20" height="20" src="https://raw.githubusercontent.com/HijelHub/GitStrap_SVG_Icons/30c18ea7ca4c0ac2dae00a5dac593b4f49ffa7f6/icons/blue/laptop.svg"> Tecnologías Utilizadas  
