@@ -1,0 +1,13 @@
+{
+    "nombres": "Maria",
+    "apellido": "Gomez",
+    "telefono": "1159554321",
+    "dni": "67554399",
+    "provincia": "Ciudad Autónoma de Buenos Aires",
+    "localidad": "Almagro",
+    "fechaNacimiento": "22-07-1998",
+    "email": "tester23@test.com",
+    "confirmarEmail": "tester23@test.com",
+    "password": "Password123!",
+    "repetirPassword": "Password123!"
+}
